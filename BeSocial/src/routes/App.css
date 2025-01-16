@@ -1,0 +1,51 @@
+.side{
+
+  display: flex;
+  }
+
+  .content{
+  
+  width: 100%;
+  
+  }
+  
+  .sidebar{
+  
+   min-height: 100vh; 
+  }
+  .hashtag {
+    margin: 0px 3px;
+  }
+  
+  .foot{
+    position: absolute;
+    bottom: 1px;
+    margin-left: 160px;
+  }
+  
+  .post{
+  
+    margin: 20px 50px;
+  
+  }
+  
+  .createpost{
+    width: 50%;
+    margin: 20px 50px;
+  
+  }
+  .btn{
+    cursor: pointer;
+  }
+  .reactions {
+    margin: 15px 0 0 0;
+  }
+  
+  .wel{
+    margin-top: 50px;
+    font-size: 40px;
+  }
+
+  .spinner{
+    margin: 10%;
+  }
